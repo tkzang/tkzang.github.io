@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "tkzang"
-permalink: https://tkzang.github.io/about/contact
+permalink: https://tkzang.github.io
 ---
 # Welcome to My Website
 
