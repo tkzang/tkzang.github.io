@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction (testing)
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Welcome! I am Tiankai Zang. I was born in Qingdao, China in 2001, and I am cuurently doing my Master's degree in language technology at the University of Helsinki.
+<img src="bike.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Welcome! I am Tiankai Zang. I was born in Qingdao, China in 2001, and I am cuurently doing my Master's degree in language technology at the University of Helsinki.
 
 ## Find me on
 
