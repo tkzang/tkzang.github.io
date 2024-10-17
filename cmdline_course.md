@@ -16,6 +16,6 @@ In this week we set up our command-line environement and learned basic commands.
 
 ### Week 2: Navigating a UNIX system
 In this week we continued to learn more about the UNIX system, such as `cp` for copying files, `mv` for moving files and `rm` to remove files. We also learned about remote servers.\
-'''
+```
 ssh <username>@puhti.csc.fi
 This is the command to connect to the puhti server.
