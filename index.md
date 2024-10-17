@@ -3,7 +3,7 @@ layout: default
 ---
 ## Introduction
 
-<img src="bike.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Welcome! I am Tiankai Zang. I was born in Qingdao, China in 2001, and I am cuurently studying for my Master's degree in language technology at the University of Helsinki.
+<img src="bike.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Welcome! I am Tiankai Zang. I was born in Qingdao, China in 2001, and I am currently studying for my Master's degree in language technology at the University of Helsinki.
 
 I like cycling in my free time. If I had the chance to choose again I would seriously thinking about getting trainings at a younger age and becoming a professional cyclist. Here is a photo of my bike to the right, it's a Canyon Ultimate from 2013 (I can't afford a new one), the same model that helped Nairo Quintana win Giro d'Italia in 2014. My favorite sport however is football, I have watched so many  games growing up. One of the best football moment I had is witnessing a small celebration of the 30th anniversery of Denmark's victory in the 1992 Euro, which took place at Parken Stadium in 2022 before a game against Austria.
 
