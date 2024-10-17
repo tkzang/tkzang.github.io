@@ -12,13 +12,15 @@ layout: default
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form first_name.last_name@helsinki.fi. __(tiankai.zang@helsinki.fi)__ 
 
 ## Courses I've Taken
 
 [Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
 
 [Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+
+[Command Line Tools](https://studies.helsinki.fi/kurssit/opintojakso/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221), fall 2024
 
 ## Projects
 
