@@ -1,3 +1,4 @@
+
 ---
 layout: default
 ---
@@ -16,11 +17,7 @@ My CV can be found [here](https://www.overleaf.com/read/gwkvnsnwswbf#b0de6e).
 
 ## Contact
 
-<<<<<<< HEAD
-My email address is of the form first_name.last_name@helsinki.fi. __(tiankai.zang@helsinki.fi)__ 
-=======
 My email address is tiankai.zang@helsinki.fi.
->>>>>>> 1187829fa5cf64cc1d6b6d1c93d7cf3a9856fe63
 
 ## Courses I've Taken
 
@@ -38,9 +35,4 @@ My email address is tiankai.zang@helsinki.fi.
 [cmdline-course project](https://github.com/tkzang/cmdline-course)
 
 ## Misc. 
-<<<<<<< HEAD
-
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
-=======
 [My favorite team -- FC København](https://www.fck.dk/) 
->>>>>>> 1187829fa5cf64cc1d6b6d1c93d7cf3a9856fe63
